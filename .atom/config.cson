@@ -1,0 +1,35 @@
+"*":
+  "exception-reporting":
+    userId: "0f4f6679-2234-0689-4e47-0e4e8f0d0985"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "one-dark-ui"
+      "tomorrow-night-eighties-syntax"
+    ]
+  editor:
+    invisibles: {}
+    preferredLineLength: 120
+  "one-dark-ui": {}
+  "atom-beautify":
+    _analyticsUserId: "8fcc1d04-7e88-4ef3-924f-a5e061dbd5e7"
+    html_end_with_newline: true
+    html_brace_style: "expand"
+    html_indent_inner_html: true
+  "atom-ternjs": {}
+  "python-autopep8": {}
+  "django-templates":
+    defaultToDjangoTemplatesForFilePathsContaining: [
+      "flyshop/templates"
+    ]
+  emmet: {}
+  minimap:
+    plugins:
+      "git-diff": true
+  "tree-view":
+    hideIgnoredNames: true
+  "autocomplete-plus": {}
+".django.html.text":
+  editor:
+    preferredLineLength: 120
